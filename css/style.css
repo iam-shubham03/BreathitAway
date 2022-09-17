@@ -324,10 +324,10 @@ header {
 .content .neon_effect::before {
   content: " ";
   position: absolute;
-  width: 20px;
-  height: 20px;
-  left: 500px;
-  top: 163px;
+  width: 3%;
+  height: 10%;
+  left: 44%;
+  top: 75%;
   border-left: 2px solid #f06f25;
   border-top: 2px solid #f06f25;
   /* background-color: #191919; */
@@ -340,10 +340,10 @@ header {
 .content .neon_effect::after {
   content: " ";
   position: absolute;
-  width: 20px;
-  height: 20px;
-  right: 502px;
-  bottom: -2px;
+  width: 3%;
+  height: 10%;
+  right: 44%;
+  bottom: -2.6%;
   border-bottom: 2px solid #0da1dc;
   border-right: 2px solid #0da1dc;
   /* background-color: #191919; */
